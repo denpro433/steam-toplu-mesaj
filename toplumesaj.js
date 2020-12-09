@@ -84,7 +84,7 @@ var date = new Date();
 			 inlist=false;
 			 for(var a=0;a<=blacklist.length;a++)
 			 {
-			if(blacklist[a].includes(isim))
+			if(isim==blacklist[a])
 			{
 				inlist=true;
 			// console.log(isim+' '+ülkesi);
