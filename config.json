@@ -1,0 +1,9 @@
+{
+	"account": {
+		"username": "kullanıcı adı",
+		"password": "şifre",
+	   "twofactorcode":""
+	},
+	
+	"api": "api key"
+}
